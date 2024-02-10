@@ -44,7 +44,7 @@
         Logo="https://www.baidu.com/favicon.ico" Title="百度" Info="百度一下，你就知道！" 
         EventType="打开网页" EventData="https://www.baidu.com/" Type="Clickable" />
     <local:MyListItem  Margin="-5,2,-5,8"
-        Logo="http://pt.simpfun.cn/assets/svgs/simpfun.png" Title="开个服务器" Info="使用简幻欢免费开一个属于自己的Minecraft服务器！" 
+        Logo="https://simpfun.cn/logo.png" Title="开个服务器" Info="使用简幻欢免费开一个属于自己的Minecraft服务器！" 
         EventType="打开网页" EventData="http://simpfun.cn/" Type="Clickable" />
     <local:MyListItem  Margin="-5,2,-5,8"
         Logo="pack://application:,,,/images/Blocks/Grass.png" Title="Minecraft Wiki" Info="点击打开Minecraft官方Wiki界面！"
