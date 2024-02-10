@@ -23,7 +23,7 @@
                     Text="随后我也在慢慢成长，从啥也不懂的初一升到了训练有素的初三，交到了很多朋友，如“vmstatus”和“JerryHan3”，他们给了我很多帮助，这些人只能说算是“百年难遇”的人了QwQ" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" HorizontalAlignment="Center"
                     Text="我还在不断成长中，欢迎前来为我的“方块社区”服务器助一份力量！么么哒！" />
-        <local:MyHint IsWarn="False" Text="方块社区IP：kauo.2m.pub" />
+        <local:MyHint IsWarn="False" Text="方块社区Q群：684957856" />
     </StackPanel>
 </local:MyCard>
 
